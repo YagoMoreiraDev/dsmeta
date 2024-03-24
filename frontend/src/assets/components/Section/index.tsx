@@ -1,9 +1,9 @@
 
-import './styles.css'
+import './styles.css';
 function Section() {
     return (
         <p></p>
     )
 }
 
-export default Section
+export default Section;

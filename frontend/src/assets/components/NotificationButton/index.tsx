@@ -1,5 +1,5 @@
-import icon from '../../img/notificationbutton.svg'
-import './styles.css'
+import icon from '../../img/notificationbutton.svg';
+import './styles.css';
 function NotificationButton() {
     return (
         <div className="dsmeta-red-btn">
@@ -8,4 +8,4 @@ function NotificationButton() {
     )
 }
 
-export default NotificationButton
+export default NotificationButton;
